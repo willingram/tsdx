@@ -43,7 +43,7 @@
     "@types/rimraf": "^2.0.2",
     "@types/shelljs": "^0.8.5",
     "@typescript-eslint/eslint-plugin": "^2.3.1",
-    "@typescript-eslint/parser": "^2.3.1",
+    "@typescript-eslint/parser": "^2.5.0",
     "@wessberg/rollup-plugin-ts": "^1.1.70",
     "ansi-escapes": "^4.2.1",
     "asyncro": "^3.0.0",
