@@ -110,7 +110,7 @@
     "@types/rollup-plugin-json": "^3.0.2",
     "@types/rollup-plugin-sourcemaps": "^0.4.2",
     "husky": "^3.0.9",
-    "pretty-quick": "^2.0.0",
+    "pretty-quick": "^2.0.1",
     "ps-tree": "^1.2.0",
     "react": "^16.8.6"
   },
