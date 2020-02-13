@@ -5769,10 +5769,10 @@ rxjs@^6.4.0:
   dependencies:
     tslib "^1.9.0"
 
-sade@^1.4.2:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/sade/-/sade-1.6.1.tgz#aba16655e998b2b68beb9f13938af010f42eddd2"
-  integrity sha512-USHm9quYNmJwFwhOnEuJohdnBhUOKV1mhL0koHSJMLJaesRX0nuDuzbWmtUBbUmXkwTalLtUBzDlEnU940BiQA==
+sade@^1.7.2:
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/sade/-/sade-1.7.2.tgz#c70c72dc636c0cadd45db7855175fb1a7161270f"
+  integrity sha512-d/1b9Wg8tuLDQzP2wNmU2gXxkr6Vwip6jdOJ5DLzbJ41AHHtMYtiZ8kEhDCNrxm4Faq0DVLTSescqp0yPr8Cpg==
   dependencies:
     mri "^1.1.0"
 
